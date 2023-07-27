@@ -1,3 +1,12 @@
+/********************************************************************************************** 
+*  WEB700 – Assignment 05 *  
+I declare that this assignment is my own work in accordance with Seneca  Academic Policy. 
+No part  *  of this assignment has been copied manually or electronically from any other source  
+(including 3rd party web sites) or distributed to other students.
+Name: Alex Chukwuka Nwanya Student ID: 143462224 Date: 2023/07/26
+ Online (Cyclic) Link: https://ill-plum-bonobo-gown.cyclic.app/ 
+ * ********************************************************************************/
+
 const express = require("express");
 const path = require("path");
 const exphbs = require("express-handlebars");
